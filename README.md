@@ -1,6 +1,8 @@
 # Installturbotax.com - Enter 16/14 Digit Code - Start Download
 TurboTax is a tax preparation software designed to help individuals file their income tax returns easily and accurately. Developed by Intuit, it provides step-by-step guidance through the tax filing process, ensuring users claim all the deductions and credits they're entitled to. TurboTax is available in various versions to cater to different tax situations, from simple to complex. It also offers features like importing previous year’s returns, live help from tax experts, and e-filing options.
 
+![sage logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ASage_Group_logo_2022.svg&psig=AOvVaw1FvgDccFFV8BcwChjproVA&ust=1734075150588000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi0sL3boYoDFQAAAAAdAAAAABAE)
+
 ## How to Download TurboTax Software via installturbotax.com
 To download TurboTax, follow these steps:
 1.	**Go to the TurboTax website:** Visit the official TurboTax website – <a href="https://installturbotaxdotcom.github.io/">installturbotax.com</a>.
