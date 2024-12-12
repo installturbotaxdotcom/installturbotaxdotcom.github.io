@@ -3,7 +3,7 @@ TurboTax is a tax preparation software designed to help individuals file their i
 
 ## How to Download TurboTax Software via installturbotax.com
 To download TurboTax, follow these steps:
-1.	Go to the TurboTax website: Visit the official TurboTax website – installturbotax.com.
+1.	Go to the TurboTax website: Visit the official TurboTax website – <a href="https://installturbotaxdotcom.github.io/">installturbotax.com</a>.
 2.	Select your product: Choose the version of TurboTax that you need (e.g., TurboTax Basic, Deluxe, Premier, etc.).
 3.	Download the software: Click on the "Download" button for your selected product.
 4.	Now Save the downloaded file: Save the downloaded file to your computer, usually in your Downloads folder.
