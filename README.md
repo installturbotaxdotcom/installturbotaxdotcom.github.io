@@ -14,11 +14,11 @@ To download TurboTax, follow these steps:
 
 ## Learn! Here How to Install TurboTax Software?
 Installing TurboTax is quite simple. Here's what you need to do:
-1.	Download the Installer: If you haven't already, download the TurboTax installer from the official TurboTax website – installturbotax.com.
+1.	Download the Installer: If you haven't already, download the TurboTax installer from the official TurboTax website – <a href="https://installturbotaxdotcom.github.io/">installturbotax.com</a>.
 2.	Lounch the Installer: Locate the downloaded file (usually in your "Downloads" folder) and double-click to run it.
 3.	Follow all Instructions: A setup wizard will guide you through the installation process. Click on the "Next" button to proceed through the steps.
 4.	Click on Accept the License Agreement: Read through the license agreement, and if you agree, select the option to accept it.
-5.	Choose Installation Location: Select the destination folder where you want to install TurboTax. 
+5.	Choose Installation Location: Select the destination folder where you want to <a href="https://installturbotaxdotcom.github.io/">install turbotax</a>. 
 6.	Complete the process of Installation: Click "Install" to begin the installation process. It could take time to complete.
 7.	Launch TurboTax: Once the installation is finished, click "Finish" to close the setup wizard and launch TurboTax.
 8.	Enter License Code: If prompted, enter the license code that you received with your purchase to activate the software.
@@ -45,4 +45,4 @@ TurboTax is a valuable tool for several reasons:
 Would you like to know more about any specific feature or have other questions?
 
 ### Conclusion
-Installing and using TurboTax can greatly simplify the process of filing your taxes. With its user-friendly interface, accuracy checks, time-saving features, and expert support, TurboTax helps you maximize your deductions and ensure your taxes are filed correctly and efficiently. Whether you have a straightforward or complex tax situation, TurboTax offers tailored solutions to meet your needs.
+Installing and using TurboTax can greatly simplify the process of filing your taxes via <a href="https://installturbotaxdotcom.github.io/">www.installturbotax.com</a>. With its user-friendly interface, accuracy checks, time-saving features, and expert support, TurboTax helps you maximize your deductions and ensure your taxes are filed correctly and efficiently. Whether you have a straightforward or complex tax situation, TurboTax offers tailored solutions to meet your needs.
